@@ -1,0 +1,14 @@
+{
+  "name": "1.-about-you",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scrollnav": "^3.0.2"
+  }
+}
